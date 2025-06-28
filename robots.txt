@@ -1,0 +1,3 @@
+Sitemap: https://alikat500.github.io/ctipod/sitemap.xml
+User-agent:*
+Disallow:
